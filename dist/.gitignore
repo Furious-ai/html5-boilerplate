@@ -4,7 +4,7 @@
 
 # Ignore whole folder
 
-dist/text/
+text/
 
 node_modules
 dist
