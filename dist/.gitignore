@@ -3,7 +3,8 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 
 # Ignore whole folder
-text/*.txt
+
+dist/text/
 
 node_modules
 dist
